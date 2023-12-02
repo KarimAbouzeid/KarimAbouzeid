@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karim Abouzeid</h1>
+<h1 align="center">Hi, I'm Karim Abouzeid 👋 </h1>
 <h3 align="center">I'm a Senior Student at German University in Cairo in Computer Science and Engineering</h3>
 
 - 🌱 I’m currently learning **FULL STACK in depth, DEVOPS**
@@ -6,8 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karim abouzeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim abouzeid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karim_abouzeid01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karim_abouzeid01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/karim_abouzeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karim_abouzeid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kimoelboss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kimoelboss" height="30" width="40" /></a>
 </p>
 
